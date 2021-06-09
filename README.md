@@ -1,5 +1,5 @@
 # How well do you know Siddhartha: CLI App
-This is a CLI App made on replit.com using node.js. You can play this game and judge how well you know Siddhartha. 
+This is a CLI App made on replit.com using Javascript. You can play this game and judge how well you know Siddhartha. 
 ## Features
 1. Asks user for their name to deliver a personalise experience.
 1. Multiple Choice Question.
